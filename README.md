@@ -5,7 +5,11 @@ An AI-powered healthcare analytics platform that predicts diseases from patient 
 The application utilizes a Machine Learning pipeline trained on the **Medical Conditions 50000 Dataset** to support digital triage and visual clinical explanations through **10 Interactive Dashboards** built with Streamlit.
 
 ---
+## Deployed link
 
+https://medicine-recommendation-system-lvoryglp7jqstjqxzvg3e4.streamlit.app/
+
+---
 ## 🚀 Key Features
 
 * **Three ML Models Compared**: Random Forest, XGBoost, and Gradient Boosting Classifiers.
