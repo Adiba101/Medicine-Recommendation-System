@@ -7,7 +7,7 @@ The application utilizes a Machine Learning pipeline trained on the **Medical Co
 ---
 ## Deployed link
 
-https://medicine-recommendation-system-lvoryglp7jqstjqxzvg3e4.streamlit.app/
+
 
 ---
 ## 🚀 Key Features
