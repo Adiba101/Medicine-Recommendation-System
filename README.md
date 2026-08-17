@@ -6,7 +6,7 @@ The application utilizes a Machine Learning pipeline trained on the **Medical Co
 
 ---
 ## Deployed link
-
+https://medicine-recommendation-system-qx4k.onrender.com/
 
 
 ---
